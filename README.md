@@ -1,5 +1,5 @@
 # HD-RP
-San Andreas Multiplayer - High Desert Roleplay server
+San Andreas Multiplayer - High Desert Roleplay server (037r2)
 06/10/2016
 
 # Background:
