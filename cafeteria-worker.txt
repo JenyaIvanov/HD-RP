@@ -1,0 +1,142 @@
+Locations
+
+Spot 0 [ 435.1019, 1642.7490, 1000.8380 ]
+Spot 1 [ 436.4199, 1642.7490, 1000.8380 ]
+Spot 2 [ 435.0883, 1642.0743, 1000.8380 ]
+Spot 3 [ 436.4199, 1642.0743, 1000.8380 ]
+Spot 4 [ 435.0883, 1639.5402, 1000.8380 ]
+Spot 5 [ 436.4199, 1639.5402, 1000.8380 ]
+Spot 6 [ 435.0883, 1638.8573, 1000.8380 ]
+Spot 7 [ 436.4199, 1638.8573, 1000.8380 ]
+Spot 8 [ 435.0883, 1636.3323, 1000.8380 ]
+Spot 9 [ 436.4199, 1636.3323, 1000.8380 ]
+Spot 10 [ 435.0883, 1635.6503, 1000.8380 ]
+Spot 11 [ 436.4199, 1635.6503, 1000.8380 ]
+Spot 12 [ 430.7341, 1638.7535, 1000.8380 ]
+Spot 13 [ 432.1181, 1638.7535, 1000.8380 ]
+Spot 14 [ 430.7351, 1638.0706, 1000.8380 ]
+Spot 15 [ 432.1181, 1638.0706, 1000.8380 ]
+Spot 16 [ 430.7341, 1635.6615, 1000.8380 ]
+Spot 17 [ 432.1181, 1635.6595, 1000.8380 ]
+Spot 18 [ 430.7341, 1634.9775, 1000.8380 ]
+Spot 19 [ 432.1181, 1634.9796, 1000.8380 ]
+
+________________________________________________
+
+OBJECTS:
+
+SPOT 0
+CreateDynamicObject(2767, 435.1019, 1642.7490, 1000.8380, 0, 0, 0);
+CreateDynamicObject(2823, 435.0908, 1642.7639, 1000.8605, 0, 0, 0);
+
+SPOT 1
+CreateDynamicObject(2767, 436.4199, 1642.7490, 1000.8380, 0, 0, 0);
+CreateDynamicObject(2823, 436.4211, 1642.7639, 1000.8605, 0, 0, 0);
+
+SPOT 2//
+CreateDynamicObject(2767, 435.0883, 1642.0743, 1000.8380, 0, 0, 0);
+CreateDynamicObject(2823, 435.0771, 1642.0505, 1000.8605, 0, 0, 180.0000);
+
+SPOT 3//
+CreateDynamicObject(2767, 436.4199, 1642.0743, 1000.8380, 0, 0, 0);
+CreateDynamicObject(2823, 436.4211, 1642.0505, 1000.8605, 0, 0, 180.0000);
+
+SPOT 4
+CreateDynamicObject(2767, 435.0883, 1639.5402, 1000.8380, 0, 0, 0);
+CreateDynamicObject(2823, 435.0771, 1639.5615, 1000.8605, 0, 0, 0);
+
+SPOT 5
+CreateDynamicObject(2767, 436.4199, 1639.5402, 1000.8380, 0, 0, 0);
+CreateDynamicObject(2823, 436.4211, 1639.5615, 1000.8605, 0, 0, 0);
+
+SPOT 6//
+CreateDynamicObject(2767, 435.0883, 1638.8573, 1000.8380, 0, 0, 0);
+CreateDynamicObject(2823, 435.0771, 1638.8165, 1000.8605, 0, 0, 180.0000);
+
+SPOT 7//
+CreateDynamicObject(2767, 436.4199, 1638.8573, 1000.8380, 0, 0, 0);
+CreateDynamicObject(2823, 436.4211, 1638.8165, 1000.8605, 0, 0, 180.0000);
+
+SPOT 8
+CreateDynamicObject(2767, 435.0883, 1636.3323, 1000.8380, 0, 0, 0);
+CreateDynamicObject(2823, 435.0771, 1636.3165, 1000.8605, 0, 0, 0);
+
+SPOT 9
+CreateDynamicObject(2767, 436.4199, 1636.3323, 1000.8380, 0, 0, 0);
+CreateDynamicObject(2823, 436.4211, 1636.3165, 1000.8605, 0, 0, 0);
+
+SPOT 10//
+CreateDynamicObject(2767, 435.0883, 1635.6503, 1000.8380, 0, 0, 0);
+CreateDynamicObject(2823, 435.0771, 1635.6365, 1000.8605, 0, 0, 180.0000);
+
+SPOT 11//
+CreateDynamicObject(2767, 436.4199, 1635.6503, 1000.8380, 0, 0, 0);
+CreateDynamicObject(2823, 436.4211, 1635.6365, 1000.8605, 0, 0, 180.0000);
+
+SPOT 12
+CreateDynamicObject(2767, 430.7341, 1638.7535, 1000.8380, 0, 0, 0);
+CreateDynamicObject(2823, 430.7348, 1638.7673, 1000.8605, 0, 0, 0);
+
+SPOT 13
+CreateDynamicObject(2767, 432.1181, 1638.7535, 1000.8380, 0, 0, 0);
+CreateDynamicObject(2823, 432.1228, 1638.7673, 1000.8605, 0, 0, 0);
+
+SPOT 14//
+CreateDynamicObject(2767, 430.7351, 1638.0706, 1000.8380, 0, 0, 0);
+CreateDynamicObject(2823, 430.7348, 1638.0664, 1000.8605, 0, 0, 180.0000);
+
+SPOT 15//
+CreateDynamicObject(2767, 432.1181, 1638.0706, 1000.8380, 0, 0, 0);
+CreateDynamicObject(2823, 432.1228, 1638.0664, 1000.8605, 0, 0, 180.0000);
+
+SPOT 16
+CreateDynamicObject(2767, 430.7341, 1635.6615, 1000.8380, 0, 0, 0);
+CreateDynamicObject(2823, 430.7348, 1635.6733, 1000.8605, 0, 0, 0);
+
+SPOT 17
+CreateDynamicObject(2767, 432.1181, 1635.6595, 1000.8380, 0, 0, 0);
+CreateDynamicObject(2823, 432.1228, 1635.6733, 1000.8605, 0, 0, 0);
+
+SPOT 18//
+CreateDynamicObject(2767, 430.7341, 1634.9775, 1000.8380, 0, 0, 0);
+CreateDynamicObject(2823, 430.7348, 1634.9714, 1000.8605, 0, 0, 180.0000);
+
+SPOT 19//
+CreateDynamicObject(2767, 432.1181, 1634.9796, 1000.8380, 0, 0, 0);
+CreateDynamicObject(2823, 432.1228, 1634.9714, 1000.8605, 0, 0, 180.0000);
+
+________________________________________________
+
+Variables
+
+new Table1Spot0Used;
+new Table1Spot1Used;
+new Table1Spot2Used;
+new Table1Spot3Used;
+new Table2Spot0Used;
+new Table2Spot1Used;
+new Table2Spot2Used;
+new Table2Spot3Used;
+new Table3Spot0Used;
+new Table3Spot1Used;
+new Table3Spot2Used;
+new Table3Spot3Used;
+new Table4Spot0Used;
+new Table4Spot1Used;
+new Table4Spot2Used;
+new Table4Spot3Used;
+new Table5Spot0Used;
+new Table5Spot1Used;
+new Table5Spot2Used;
+new Table5Spot3Used;
+
+________________________________________________
+
+
+Attachments
+TRAY MODEL - 2767
+TRASH MODEL - 2823
+
+SetPlayerSpecialAction(playerid, 25);
+SetPlayerAttachedObject(playerid, 1, 2767, 6, 0.194999, 0.03100, -0.171000, -109.8, -11.700, 96.9);
+SetPlayerAttachedObject(playerid, 2, 2823, 6, 0.175998, 0.04999, -0.16299, -109.90009, -11.800010, -110.599998);
