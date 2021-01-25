@@ -91,10 +91,16 @@ Download the ZIP.
 Have fun! 
 
 # Credits:
+
 Naruto_Emilio - for originally releasing the Blueberry Prison gamemode, this what inspired me and what I learned on prison roleplay gamemodes based on his scripting, which turned out to be an amazing project.
+
 Bronny
+
 Ecko
+
 Sparkie
+
 Sanguine
+
 & more!
 
