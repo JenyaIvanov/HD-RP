@@ -2,7 +2,8 @@ This project is open-source for everyones use.
 
 # HD-RP
 San Andreas Multiplayer - High Desert Roleplay server (037r2)
-06/10/2016
+created and edited on the 06th of October 2016
+Later it was re-uploaded by me to Git for preservation.
 
 # Background:
 This script was developed to a server that was released by the name "High Desert Prison Roleplay", this server had its peeks regarding playerbase, it was amazing and fun to develop and play.
